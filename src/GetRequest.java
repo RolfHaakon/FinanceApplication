@@ -4,11 +4,6 @@ import java.util.Scanner;
 
 public class GetRequest {
 
-    //private String urlString;
-
-    public GetRequest(String urlString){
-        //this.urlString = urlString;
-    }
 
     public static void StockData(String url) {
 
